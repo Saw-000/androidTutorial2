@@ -20,10 +20,15 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun rollDice() {
-        val randomInt = Random().nextInt(6) + 1
+//        val randomInt = Random().nextInt(6) + 1
 
         val resultText: TextView = findViewById(R.id.result_text)
-        resultText.text = randomInt.toString()
+        if ( resultText.text == "1" || resultText.text == "2" || resultText.text == "3" || resultText.text == "4" || resultText.text == "5" ) {
+            resultText.text = (resultText.text.toString().toInt() + 1).toString()
+        } else {
+            resultText.text = "1"
+        }
+//        resultText.text = randomInt.toString()
 
         Toast.makeText(this, "button pushed", Toast.LENGTH_SHORT).show()
     }
