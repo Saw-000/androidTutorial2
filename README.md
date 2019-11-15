@@ -1,4 +1,3 @@
 # androidTutorial2
-
-## finish
-1~2.2
+workspace: ~2.2
+MyColorViews: 2.3
