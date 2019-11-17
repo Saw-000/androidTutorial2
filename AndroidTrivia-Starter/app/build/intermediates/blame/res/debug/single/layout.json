@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_rules.xml",
+        "source": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/src/main/res/layout/fragment_rules.xml"
+    },
+    {
+        "merged": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_title.xml",
+        "source": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/src/main/res/layout/fragment_title.xml"
+    },
+    {
+        "merged": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_over.xml",
+        "source": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/src/main/res/layout/fragment_game_over.xml"
+    },
+    {
+        "merged": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_won.xml",
+        "source": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/src/main/res/layout/fragment_game_won.xml"
+    },
+    {
+        "merged": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_about.xml",
+        "source": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game.xml",
+        "source": "/Users/zousan/AndroidStudioProjects/androidTutorial2/AndroidTrivia-Starter/app/src/main/res/layout/fragment_game.xml"
+    }
+]
