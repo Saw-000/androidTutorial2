@@ -54,6 +54,8 @@ class ScoreFragment : Fragment() {
         viewModelFactory = ScoreViewModelFactory(ScoreFragmentArgs.fromBundle(arguments!!).score)
         viewModel = ViewModelProviders.of(this, viewModelFactory)
                 .get(ScoreViewModel::class.java)
+        /** viewModelをbinding **/
+        binding.scoreViewModel = viewModel
 
         /** scoreをObserverで監視して、表示 **/
         viewModel.score.observe(this, Observer { newScore ->
@@ -67,8 +69,9 @@ class ScoreFragment : Fragment() {
                 viewModel.onPlayAgainCompelted()
             }
         })
-        /** play_again button押されたら、eventPlayAgainをtrueにする **/
-        binding.playAgainButton.setOnClickListener { viewModel.onPlayAgain() }
+        /** play_again button押されたら、viewModel.eventPlayAgainをtrueにする **/
+        /** Listener_binding remove methods for Buttons **/
+        //binding.playAgainButton.setOnClickListener { viewModel.onPlayAgain() }
 
         return binding.root
     }
