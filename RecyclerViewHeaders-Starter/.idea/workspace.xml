@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69199a35-016d-4fc9-b5f7-3ad1e6eb0220" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/header.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
@@ -16,16 +15,6 @@
       <change beforePath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/app/src/main/res/layout/header.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/app/src/main/res/layout/header.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepNightAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepNightAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepNightAdapter.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="240">
+              <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
               <folding>
                 <element signature="e#0#615#0" expanded="true" />
               </folding>
@@ -271,7 +260,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="800" height="850" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" visible="true" weight="0.26912928" />
       <window_info id="Structure" side_tool="true" />
@@ -288,7 +276,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Android Profiler" />
       <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3298153" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298153" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.3298153" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
@@ -327,8 +315,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepNightAdapter.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="240">
+          <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
           <folding>
             <element signature="e#0#615#0" expanded="true" />
           </folding>
