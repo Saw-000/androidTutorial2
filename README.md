@@ -11,4 +11,6 @@ RecyclerViewFundamentals-Starter 7.1
 RecyclerViewDiffUtilDataBinding-Starter 7.2,3  
 RecyclerViewClickHandler-Starter 7.4  
 RecyclerViewHeaders-Starter 7.5  
+MarsRealEstate-Starter 8.1, 2  
+MarsRealEstateGrid 8.3  
 |
